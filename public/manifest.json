@@ -1,0 +1,18 @@
+{
+  "name": "Clínica Pediátrica Integral - Portal del Paciente",
+  "short_name": "Clínica Pediátrica",
+  "description": "Portal de paciente para agendar citas, ver historial clínico y gestionar dependientes.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F8FAFC",
+  "theme_color": "#0D9488",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
